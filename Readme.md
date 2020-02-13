@@ -41,5 +41,7 @@ haproxy.sh
 - Auto Install haproxy for Shadowsocks Server
 - https://raw.githubusercontent.com/q779433467/ss-onekeyinstall/master/usage/使用haproxy中转Shadowsocks流量一键安装脚本
 
-Copyright (C) 2014-2019 Teddysun
+CopyRight (C) 2014-2019 Teddysun
 
+需要VPS么？
+<a href="https://www.vultr.com/?ref=8372570"><img src="https://www.vultr.com/media/banners/banner_728x90.png" width="728" height="90"></a>
