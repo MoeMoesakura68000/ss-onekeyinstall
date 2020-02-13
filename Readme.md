@@ -44,4 +44,4 @@ haproxy.sh
 CopyRight (C) 2014-2019 Teddysun
 
 需要VPS么？
-<a href="https://www.vultr.com/?ref=8372570"><img src="https://www.vultr.com/media/banners/banner_728x90.png" width="728" height="90"></a>
+<a href="https://www.vultr.com/?ref=8372571-6G"><img src="https://www.vultr.com/media/banners/banner_728x90.png" width="728" height="90"></a>
