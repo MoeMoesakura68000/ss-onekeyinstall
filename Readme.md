@@ -1,4 +1,4 @@
-![Shadowsocks](https://github.com/q779433467/ss-onekeyinstall/blob/master/shadowsocks.png)
+![越过长城，走向世界](https://cdn.laod.wang/wp-content/uploads/2018/09/cc.gif)
 # Auto install Shadowsocks Server
 
 shadowsocks.sh
@@ -43,5 +43,6 @@ haproxy.sh
 
 CopyRight (C) 2014-2019 Teddysun
 
-需要VPS么？
-<a href="https://www.vultr.com/?ref=8372571-6G"><img src="https://www.vultr.com/media/banners/banner_728x90.png" width="728" height="90"></a>
+## 需要VPS么？
+> <a href="https://www.vultr.com/?ref=8372571-6G"><img src="https://www.vultr.com/media/banners/banner_728x90.png" width="728" height="90"></a>
+
